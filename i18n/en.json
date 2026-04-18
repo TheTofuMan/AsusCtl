@@ -1,0 +1,43 @@
+{
+  "tooltips": {
+    "settings": "Settings",
+    "close": "Close"
+  },
+  "context-menu": {
+    "settings": "Widget Settings"
+  },
+  "gpu": "GPU",
+  "mode": {
+    "Turbo": "Turbo",
+    "Balanced": "Balanced",
+    "Quiet": "Quiet",
+    "Custom": "Custom",
+    "Eco": "Eco",
+    "Standard": "Standard",
+    "Ultimate": "Ultimate",
+    "Optimized": "Optimized"
+  },
+  "settings": {
+    "debug": {
+      "description": "Print debug information to the console.",
+      "label": "Debug mode"
+    },
+    "rogcc": {
+      "listenToNotifications": {
+        "description": "React to GPU mode change notifications from rog-control-center.",
+        "label": "Listen for mode change notifications"
+      }
+    },
+    "supergfxctl": {
+      "patchPending": {
+        "description": "Guess the required action instead of relying on the output of supergfxctl.",
+        "label": "Guess fallback action"
+      },
+      "polling": {
+        "description": "Periodically poll the supergfxctl process for status updates. Warning: this can cause supergfxctl to hang!",
+        "label": "Polling"
+      }
+    }
+  },
+  "unknown": "Unknown"
+}
