@@ -5,7 +5,7 @@
   "minNoctaliaVersion": "3.8.2",
   "author": "TheTofuMan",
   "license": "MIT",
-  "repository": "https://github.com/cod3ddot/noctalia-supergfxctl",
+  "repository": "https://github.com/TheTofuMan/AsusCtl",
   "description": "Power Profile Control with Asusctl",
   "tags": ["Bar", "Panel", "System", "Gaming"],
   "entryPoints": {
